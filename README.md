@@ -1,6 +1,6 @@
 <!-- Gradient Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Vijay+More+🚀;Full-Stack+Developer+%7C+ML+Engineer;React+%7C+Node.js+%7C+Python+%7C+Spring+Boot;Open+Source+Contributor+👨‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Rucha+ Suryawanshi+🚀;Full-Stack+Developer+%7C+ML+Engineer;React+%7C+Node.js+%7C+Python+%7C+Spring+Boot;Open+Source+Contributor+👨‍💻" />
 </p>
 
 ---
